@@ -1,4 +1,4 @@
 # Table of contents
 
-* [💙 LOLBins Detection Methodology (Windows)](README.md)
+* [💙 LOLBins Detection Methodology (Windows)]()
 * [💚 Detection Recipes for GTFOBins (\*nix)](detection-recipes-for-gtfobins-nix.md)
