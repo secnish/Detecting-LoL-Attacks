@@ -1,4 +1,4 @@
-# 🔐 LoL Attack Detection Recipes
+# ❤️ LoL Attack Detection Recipes
 
 A practical detection guide for **Living off the Land (LoL) attacks** across Windows and Linux environments.
 
@@ -6,7 +6,7 @@ This project focuses on how attackers abuse legitimate system binaries and how d
 
 ---
 
-## 📌 What This Project Covers
+## 💀 What This Project Covers
 
 This repository contains structured detection recipes for:
 
@@ -63,7 +63,7 @@ Detection is built using:
 
 ---
 
-## 🎯 Project Goal
+## 🐳 Project Goal
 
 This project is built to:
 
@@ -77,7 +77,7 @@ Detection requires context, behavior analysis, and proper logging — not just s
 
 ---
 
-## 🚀 Who Is This For?
+## 🧸 Who Is This For?
 
 - SOC Analysts  
 - Threat Hunters  
@@ -87,7 +87,7 @@ Detection requires context, behavior analysis, and proper logging — not just s
 
 ---
 
-## 🤝 Contributing
+## 🪳 Contributing
 
 Feel free to fork, suggest improvements, or add more detection recipes.
 
